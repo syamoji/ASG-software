@@ -1,9 +1,0 @@
-c:\users\tkj\documents\visual studio 2010\Projects\FeederTwitter\FeederTwitter\bin\Debug\FeederTwitter.exe
-c:\users\tkj\documents\visual studio 2010\Projects\FeederTwitter\FeederTwitter\bin\Debug\FeederTwitter.pdb
-c:\users\tkj\documents\visual studio 2010\Projects\FeederTwitter\FeederTwitter\obj\x86\Debug\ResolveAssemblyReference.cache
-c:\users\tkj\documents\visual studio 2010\Projects\FeederTwitter\FeederTwitter\obj\x86\Debug\FeederTwitter.mainWindow.resources
-c:\users\tkj\documents\visual studio 2010\Projects\FeederTwitter\FeederTwitter\obj\x86\Debug\FeederTwitter.Properties.Resources.resources
-c:\users\tkj\documents\visual studio 2010\Projects\FeederTwitter\FeederTwitter\obj\x86\Debug\GenerateResource.read.1.tlog
-c:\users\tkj\documents\visual studio 2010\Projects\FeederTwitter\FeederTwitter\obj\x86\Debug\GenerateResource.write.1.tlog
-c:\users\tkj\documents\visual studio 2010\Projects\FeederTwitter\FeederTwitter\obj\x86\Debug\FeederTwitter.exe
-c:\users\tkj\documents\visual studio 2010\Projects\FeederTwitter\FeederTwitter\obj\x86\Debug\FeederTwitter.pdb
